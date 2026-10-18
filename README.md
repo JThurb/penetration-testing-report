@@ -6,6 +6,7 @@ I learned to use tools like:
 - Metasploit
 - John The Ripper
 - Gobuster
+
 And technigues like:
 - file upload and inclusionn
 - reverse shell
